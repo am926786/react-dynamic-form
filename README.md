@@ -1,3 +1,39 @@
+# React Dynamic Form
+
+This project is a multi-level dynamic form built using React. The form includes three levels, each with specific fields and validations. Users can navigate between the levels through a main page, and the form dynamically updates based on the selected survey topic.
+
+## Features
+
+- **Multi-level Form**: Three levels of forms with specific fields.
+- **Dynamic Field Rendering**: Fields change dynamically based on the selected survey topic.
+- **Form Validation**: Built-in form validation to ensure data integrity.
+- **React Router**: Client-side routing for navigation between form levels.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/react-dynamic-form.git
+    cd react-dynamic-form
+    ```
+
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+
+To start the development server:
+```bash
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
